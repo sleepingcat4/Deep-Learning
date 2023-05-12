@@ -31,4 +31,4 @@ By the way, if you want to painstakingly write a maths explanation of ai, that w
 
 ##### Finally! 
 
-Take everything with valid criticism and be constructive.
+Take everything with valid criticism and be constructive. Repository is updated every week twice = )

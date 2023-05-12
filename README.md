@@ -32,3 +32,7 @@ By the way, if you want to painstakingly write a maths explanation of ai, that w
 ##### Finally! 
 
 Take everything with valid criticism and be constructive. Repository is updated every week twice = )
+
+
+### Paper Links
+1. Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. 2016. “Discovering Governing Equations from Data by Sparse Identification of Nonlinear Dynamical Systems.” Proceedings of the National Academy of Sciences 113 (15): 3932–37. https://doi.org/10.1073/pnas.1517384113.

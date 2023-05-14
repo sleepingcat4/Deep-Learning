@@ -11,6 +11,19 @@ The range of difficulty is from intermediate to advanced/very foundational. For 
 
 I am not diving into any hype i.e. LLMs, Lora or something. They’re good advancements but way too much hype and unnecessary.The repository is written with the view to be as much constructive and deep as possible which moves beyond hype. 
 
+##### Branch Explanation
+
+` master - this branch consists notebooks and code which are written by reading research papers`
+
+` tensorflow - consists introduction to latest modules of tensorflow & explanation`
+
+` pytorch - consists introduction to latest modules of pytorch & explanation`
+
+` lect/notes - consists lectures & notes that I have read and studied of different top universities and academies`
+
+` non-random - consists any fun project/experiments I did (no context provided) IT’S WILD-WEST`
+
+
  ##### Solving! 
 
 If you encounter any problem or need clarification, please create an issue within the repo and I will try to help. 

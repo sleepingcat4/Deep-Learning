@@ -21,7 +21,7 @@ I am not diving into any hype i.e. LLMs, Lora or something. They’re good advan
 
 ` lect/notes - consists lectures & notes that I have read and studied of different top universities and academies`
 
-` non-random - consists any fun project/experiments I did (no context provided) IT’S WILD-WEST`
+` experimental - consists any fun project/experiments I did (no context provided) IT’S WILD-WEST`
 
 
  ##### Solving! 
